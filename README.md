@@ -1,1 +1,2 @@
-# notesapp
+# notes
+ notes app using react+vite
